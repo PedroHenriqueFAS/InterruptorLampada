@@ -1,0 +1,21 @@
+# Arquivos do Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.swp
+
+# Arquivos de ambiente virtual (caso utilize)
+venv/
+env/
+*.venv
+*.env
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+.DS_Store
+
+# Configurações do VSCode (caso use)
+.vscode/
